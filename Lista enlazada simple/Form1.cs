@@ -26,6 +26,31 @@ namespace Lista_enlazada_simple
             textNumero.Clear();
         }
 
-        
+        private void btnEliminar_Click(object sender, EventArgs e)
+        {
+            l.eliminar(int.Parse(textNumero.Text));
+            listBox1.Items.Clear();
+            l.mostrar(listBox1);
+            textNumero.Clear();
+        }
+
+        private void btnBuscar_Click(object sender, EventArgs e)
+        {
+            if (l.buscar(int.Parse(textNumero.Text)) == true)
+            {
+                MessageBox.Show($"El número {textNumero.Text} existe");
+            }
+            else
+            {
+                MessageBox.Show($"El número {textNumero.Text} no existe");
+            }
+        }
+
+        private void btnOrdenar_Click(object sender, EventArgs e)
+        {
+            l.ordenar();
+            listBox1.Items.Clear();
+            l.mostrar(listBox1);
+        }
     }
 }
