@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36310.24 d17.14
+VisualStudioVersion = 17.14.36310.24
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista enlazada simple", "Lista enlazada simple\Lista enlazada simple.csproj", "{52963134-09CB-407D-B406-CFA21A8FF05B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista enlazada ciruclar", "Lista enlazada ciruclar\Lista enlazada ciruclar.csproj", "{C4CCD4D3-1555-44A4-812F-94E8F6AD8A09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista enlazada doble", "Lista enlazada doble\Lista enlazada doble.csproj", "{9C7756D3-19AC-4512-87E5-F2F408F7541F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{52963134-09CB-407D-B406-CFA21A8FF05B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52963134-09CB-407D-B406-CFA21A8FF05B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52963134-09CB-407D-B406-CFA21A8FF05B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4CCD4D3-1555-44A4-812F-94E8F6AD8A09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4CCD4D3-1555-44A4-812F-94E8F6AD8A09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4CCD4D3-1555-44A4-812F-94E8F6AD8A09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4CCD4D3-1555-44A4-812F-94E8F6AD8A09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C7756D3-19AC-4512-87E5-F2F408F7541F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C7756D3-19AC-4512-87E5-F2F408F7541F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C7756D3-19AC-4512-87E5-F2F408F7541F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C7756D3-19AC-4512-87E5-F2F408F7541F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

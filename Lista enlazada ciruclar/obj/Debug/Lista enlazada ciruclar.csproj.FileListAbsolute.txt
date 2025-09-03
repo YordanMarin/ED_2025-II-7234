@@ -1,0 +1,11 @@
+C:\Users\UPN\Desktop\PROYECTOS\ED_2025-II-7224\Lista enlazada ciruclar\bin\Debug\Lista enlazada ciruclar.exe.config
+C:\Users\UPN\Desktop\PROYECTOS\ED_2025-II-7224\Lista enlazada ciruclar\bin\Debug\Lista enlazada ciruclar.exe
+C:\Users\UPN\Desktop\PROYECTOS\ED_2025-II-7224\Lista enlazada ciruclar\bin\Debug\Lista enlazada ciruclar.pdb
+C:\Users\UPN\Desktop\PROYECTOS\ED_2025-II-7224\Lista enlazada ciruclar\obj\Debug\Lista enlazada ciruclar.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\PROYECTOS\ED_2025-II-7224\Lista enlazada ciruclar\obj\Debug\Lista_enlazada_ciruclar.Form1.resources
+C:\Users\UPN\Desktop\PROYECTOS\ED_2025-II-7224\Lista enlazada ciruclar\obj\Debug\Lista_enlazada_ciruclar.Properties.Resources.resources
+C:\Users\UPN\Desktop\PROYECTOS\ED_2025-II-7224\Lista enlazada ciruclar\obj\Debug\Lista enlazada ciruclar.csproj.GenerateResource.cache
+C:\Users\UPN\Desktop\PROYECTOS\ED_2025-II-7224\Lista enlazada ciruclar\obj\Debug\Lista enlazada ciruclar.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\PROYECTOS\ED_2025-II-7224\Lista enlazada ciruclar\obj\Debug\Lista enlazada ciruclar.exe
+C:\Users\UPN\Desktop\PROYECTOS\ED_2025-II-7224\Lista enlazada ciruclar\obj\Debug\Lista enlazada ciruclar.pdb
+C:\Users\UPN\Desktop\PROYECTOS\ED_2025-II-7224\Lista enlazada ciruclar\obj\Debug\Lista enlazada ciruclar.exe.config
