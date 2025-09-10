@@ -1,0 +1,11 @@
+C:\Users\YordanM\Desktop\FA\ED_2025-II-7224\Lista enlazada doble SP\bin\Debug\Lista enlazada doble SP.exe.config
+C:\Users\YordanM\Desktop\FA\ED_2025-II-7224\Lista enlazada doble SP\bin\Debug\Lista enlazada doble SP.exe
+C:\Users\YordanM\Desktop\FA\ED_2025-II-7224\Lista enlazada doble SP\bin\Debug\Lista enlazada doble SP.pdb
+C:\Users\YordanM\Desktop\FA\ED_2025-II-7224\Lista enlazada doble SP\obj\Debug\Lista enlazada doble SP.csproj.AssemblyReference.cache
+C:\Users\YordanM\Desktop\FA\ED_2025-II-7224\Lista enlazada doble SP\obj\Debug\Lista_enlazada_doble_SP.Form1.resources
+C:\Users\YordanM\Desktop\FA\ED_2025-II-7224\Lista enlazada doble SP\obj\Debug\Lista_enlazada_doble_SP.Properties.Resources.resources
+C:\Users\YordanM\Desktop\FA\ED_2025-II-7224\Lista enlazada doble SP\obj\Debug\Lista enlazada doble SP.csproj.GenerateResource.cache
+C:\Users\YordanM\Desktop\FA\ED_2025-II-7224\Lista enlazada doble SP\obj\Debug\Lista enlazada doble SP.csproj.CoreCompileInputs.cache
+C:\Users\YordanM\Desktop\FA\ED_2025-II-7224\Lista enlazada doble SP\obj\Debug\Lista enlazada doble SP.exe
+C:\Users\YordanM\Desktop\FA\ED_2025-II-7224\Lista enlazada doble SP\obj\Debug\Lista enlazada doble SP.pdb
+C:\Users\YordanM\Desktop\FA\ED_2025-II-7224\Lista enlazada doble SP\obj\Debug\Lista enlazada doble SP.exe.config
