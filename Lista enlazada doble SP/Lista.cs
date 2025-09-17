@@ -46,5 +46,63 @@ namespace Lista_enlazada_doble_SP
                 actual = actual.Siguiente;
             }
         }
+
+        public Nodo buscar(string nom)
+        {
+            Nodo actual = primero;
+
+            while(actual != null)
+            {
+                if(actual.Nombre == nom)
+                {
+                    return actual;
+                }
+                actual = actual.Siguiente;
+            }
+            return null;
+        }
+
+        public void modificar(string actualNom, string nuevoNom, byte nuevoEd)
+        {
+            Nodo modificar = buscar(actualNom);
+
+            if( modificar != null)
+            {
+                modificar.Nombre = nuevoNom;
+                modificar.Edad = nuevoEd;
+            }
+        }
+
+        public void eliminar(string nom)
+        {
+            Nodo eliminar = buscar(nom);
+
+            if( eliminar != null)
+            {
+                if(eliminar == primero)
+                {
+                    primero = primero.Siguiente;
+                    if(primero != null)
+                    {
+                        primero.Anterior = null;
+                    }
+                    
+
+                }else if(eliminar == ultimo)
+                {
+                    ultimo = ultimo.Anterior;
+                    if(ultimo != null)
+                    {
+                        ultimo.Siguiente = null;
+                    }
+                    
+                }
+                else
+                {
+                    eliminar.Anterior.Siguiente = eliminar.Siguiente;
+                    eliminar.Siguiente.Anterior = eliminar.Anterior;
+                }
+            }
+        }
     }
 }

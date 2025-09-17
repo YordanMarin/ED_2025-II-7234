@@ -1,0 +1,10 @@
+C:\Users\UPN\Desktop\Nueva carpeta\ED_2025-II-7234\Pila\bin\Debug\Pila.exe.config
+C:\Users\UPN\Desktop\Nueva carpeta\ED_2025-II-7234\Pila\bin\Debug\Pila.exe
+C:\Users\UPN\Desktop\Nueva carpeta\ED_2025-II-7234\Pila\bin\Debug\Pila.pdb
+C:\Users\UPN\Desktop\Nueva carpeta\ED_2025-II-7234\Pila\obj\Debug\Pila.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\Nueva carpeta\ED_2025-II-7234\Pila\obj\Debug\Pila.Form1.resources
+C:\Users\UPN\Desktop\Nueva carpeta\ED_2025-II-7234\Pila\obj\Debug\Pila.Properties.Resources.resources
+C:\Users\UPN\Desktop\Nueva carpeta\ED_2025-II-7234\Pila\obj\Debug\Pila.csproj.GenerateResource.cache
+C:\Users\UPN\Desktop\Nueva carpeta\ED_2025-II-7234\Pila\obj\Debug\Pila.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\Nueva carpeta\ED_2025-II-7234\Pila\obj\Debug\Pila.exe
+C:\Users\UPN\Desktop\Nueva carpeta\ED_2025-II-7234\Pila\obj\Debug\Pila.pdb

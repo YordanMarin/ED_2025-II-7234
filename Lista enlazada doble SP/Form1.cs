@@ -39,5 +39,58 @@ namespace Lista_enlazada_doble_SP
                 }
             }
         }
+
+        private void btnBuscar_Click(object sender, EventArgs e)
+        {
+            if (string.IsNullOrWhiteSpace(textNombre.Text))
+            {
+                MessageBox.Show("Ingrese un nombre a buscar!");
+            }
+            else
+            {
+                Nodo buscar = l.buscar(textNombre.Text.Trim());
+
+                if (buscar != null)
+                {
+                    MessageBox.Show($"Nombre: {buscar.Nombre}\nEdad: {buscar.Edad}");
+                }
+                else
+                {
+                    MessageBox.Show($"El nombre {textNombre.Text} no se encuentra en la lista");
+                }
+            }
+        }
+
+        private void btnModificar_Click(object sender, EventArgs e)
+        {
+            if(listView1.SelectedItems.Count > 0)
+            {
+                string nom = listView1.SelectedItems[0].Text;
+
+                l.modificar(nom,textNombre.Text, byte.Parse(textEdad.Text));
+                listView1.Items.Clear();
+                l.mostrar(listView1);
+            }
+            else
+            {
+                MessageBox.Show("Seleccione un nombre a modificar");
+            }
+        }
+
+        private void btnEliminar_Click(object sender, EventArgs e)
+        {
+            if (listView1.SelectedItems.Count > 0)
+            {
+                string nom = listView1.SelectedItems[0].Text;
+
+                l.eliminar(nom);
+                listView1.Items.Clear();
+                l.mostrar(listView1);
+            }
+            else
+            {
+                MessageBox.Show("Seleccione un nombre a eliminar");
+            }
+        }
     }
 }
