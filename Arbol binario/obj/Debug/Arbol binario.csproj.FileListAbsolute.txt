@@ -1,0 +1,11 @@
+C:\Users\YordanM\Desktop\Nueva carpeta\ED_2025-II-7234\Arbol binario\bin\Debug\Arbol binario.exe.config
+C:\Users\YordanM\Desktop\Nueva carpeta\ED_2025-II-7234\Arbol binario\bin\Debug\Arbol binario.exe
+C:\Users\YordanM\Desktop\Nueva carpeta\ED_2025-II-7234\Arbol binario\bin\Debug\Arbol binario.pdb
+C:\Users\YordanM\Desktop\Nueva carpeta\ED_2025-II-7234\Arbol binario\obj\Debug\Arbol binario.csproj.AssemblyReference.cache
+C:\Users\YordanM\Desktop\Nueva carpeta\ED_2025-II-7234\Arbol binario\obj\Debug\Arbol_binario.Form1.resources
+C:\Users\YordanM\Desktop\Nueva carpeta\ED_2025-II-7234\Arbol binario\obj\Debug\Arbol_binario.Properties.Resources.resources
+C:\Users\YordanM\Desktop\Nueva carpeta\ED_2025-II-7234\Arbol binario\obj\Debug\Arbol binario.csproj.GenerateResource.cache
+C:\Users\YordanM\Desktop\Nueva carpeta\ED_2025-II-7234\Arbol binario\obj\Debug\Arbol binario.csproj.CoreCompileInputs.cache
+C:\Users\YordanM\Desktop\Nueva carpeta\ED_2025-II-7234\Arbol binario\obj\Debug\Arbol binario.exe
+C:\Users\YordanM\Desktop\Nueva carpeta\ED_2025-II-7234\Arbol binario\obj\Debug\Arbol binario.pdb
+C:\Users\YordanM\Desktop\Nueva carpeta\ED_2025-II-7234\Arbol binario\obj\Debug\Arbol binario.exe.config

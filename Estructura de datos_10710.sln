@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aso2-T1", "aso2-T1\aso2-T1.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colas", "Colas\Colas.csproj", "{EDAD2C4E-4B53-4B7C-86D7-ADA4FBCA36B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arbol binario", "Arbol binario\Arbol binario.csproj", "{62B2F058-261C-4126-8654-EC79BA047093}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{EDAD2C4E-4B53-4B7C-86D7-ADA4FBCA36B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDAD2C4E-4B53-4B7C-86D7-ADA4FBCA36B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDAD2C4E-4B53-4B7C-86D7-ADA4FBCA36B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62B2F058-261C-4126-8654-EC79BA047093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62B2F058-261C-4126-8654-EC79BA047093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62B2F058-261C-4126-8654-EC79BA047093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62B2F058-261C-4126-8654-EC79BA047093}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
