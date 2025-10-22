@@ -1,0 +1,11 @@
+C:\Users\UPN\Desktop\Nueva carpeta\ED_2025-II-7234\Arbol Binario Busqueda2\bin\Debug\Arbol Binario Busqueda2.exe.config
+C:\Users\UPN\Desktop\Nueva carpeta\ED_2025-II-7234\Arbol Binario Busqueda2\bin\Debug\Arbol Binario Busqueda2.exe
+C:\Users\UPN\Desktop\Nueva carpeta\ED_2025-II-7234\Arbol Binario Busqueda2\bin\Debug\Arbol Binario Busqueda2.pdb
+C:\Users\UPN\Desktop\Nueva carpeta\ED_2025-II-7234\Arbol Binario Busqueda2\obj\Debug\Arbol Binario Busqueda2.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\Nueva carpeta\ED_2025-II-7234\Arbol Binario Busqueda2\obj\Debug\Arbol_Binario_Busqueda2.Form1.resources
+C:\Users\UPN\Desktop\Nueva carpeta\ED_2025-II-7234\Arbol Binario Busqueda2\obj\Debug\Arbol_Binario_Busqueda2.Properties.Resources.resources
+C:\Users\UPN\Desktop\Nueva carpeta\ED_2025-II-7234\Arbol Binario Busqueda2\obj\Debug\Arbol Binario Busqueda2.csproj.GenerateResource.cache
+C:\Users\UPN\Desktop\Nueva carpeta\ED_2025-II-7234\Arbol Binario Busqueda2\obj\Debug\Arbol Binario Busqueda2.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\Nueva carpeta\ED_2025-II-7234\Arbol Binario Busqueda2\obj\Debug\Arbol Binario Busqueda2.exe
+C:\Users\UPN\Desktop\Nueva carpeta\ED_2025-II-7234\Arbol Binario Busqueda2\obj\Debug\Arbol Binario Busqueda2.pdb
+C:\Users\UPN\Desktop\Nueva carpeta\ED_2025-II-7234\Arbol Binario Busqueda2\obj\Debug\Arbol Binario Busqueda2.exe.config
