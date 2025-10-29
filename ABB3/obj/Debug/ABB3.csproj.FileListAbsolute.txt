@@ -1,0 +1,11 @@
+C:\Users\UPN\Desktop\Nueva carpeta\ED_2025-II-7234\ABB3\bin\Debug\ABB3.exe.config
+C:\Users\UPN\Desktop\Nueva carpeta\ED_2025-II-7234\ABB3\bin\Debug\ABB3.exe
+C:\Users\UPN\Desktop\Nueva carpeta\ED_2025-II-7234\ABB3\bin\Debug\ABB3.pdb
+C:\Users\UPN\Desktop\Nueva carpeta\ED_2025-II-7234\ABB3\obj\Debug\ABB3.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\Nueva carpeta\ED_2025-II-7234\ABB3\obj\Debug\ABB3.Form1.resources
+C:\Users\UPN\Desktop\Nueva carpeta\ED_2025-II-7234\ABB3\obj\Debug\ABB3.Properties.Resources.resources
+C:\Users\UPN\Desktop\Nueva carpeta\ED_2025-II-7234\ABB3\obj\Debug\ABB3.csproj.GenerateResource.cache
+C:\Users\UPN\Desktop\Nueva carpeta\ED_2025-II-7234\ABB3\obj\Debug\ABB3.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\Nueva carpeta\ED_2025-II-7234\ABB3\obj\Debug\ABB3.exe
+C:\Users\UPN\Desktop\Nueva carpeta\ED_2025-II-7234\ABB3\obj\Debug\ABB3.pdb
+C:\Users\UPN\Desktop\Nueva carpeta\ED_2025-II-7234\ABB3\obj\Debug\ABB3.exe.config
