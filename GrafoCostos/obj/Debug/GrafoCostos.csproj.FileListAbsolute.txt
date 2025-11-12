@@ -1,0 +1,11 @@
+C:\Users\UPN\Desktop\Nueva carpeta\ED_2025-II-7234\GrafoCostos\bin\Debug\GrafoCostos.exe.config
+C:\Users\UPN\Desktop\Nueva carpeta\ED_2025-II-7234\GrafoCostos\bin\Debug\GrafoCostos.exe
+C:\Users\UPN\Desktop\Nueva carpeta\ED_2025-II-7234\GrafoCostos\bin\Debug\GrafoCostos.pdb
+C:\Users\UPN\Desktop\Nueva carpeta\ED_2025-II-7234\GrafoCostos\obj\Debug\GrafoCostos.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\Nueva carpeta\ED_2025-II-7234\GrafoCostos\obj\Debug\GrafoCostos.Form1.resources
+C:\Users\UPN\Desktop\Nueva carpeta\ED_2025-II-7234\GrafoCostos\obj\Debug\GrafoCostos.Properties.Resources.resources
+C:\Users\UPN\Desktop\Nueva carpeta\ED_2025-II-7234\GrafoCostos\obj\Debug\GrafoCostos.csproj.GenerateResource.cache
+C:\Users\UPN\Desktop\Nueva carpeta\ED_2025-II-7234\GrafoCostos\obj\Debug\GrafoCostos.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\Nueva carpeta\ED_2025-II-7234\GrafoCostos\obj\Debug\GrafoCostos.exe
+C:\Users\UPN\Desktop\Nueva carpeta\ED_2025-II-7234\GrafoCostos\obj\Debug\GrafoCostos.pdb
+C:\Users\UPN\Desktop\Nueva carpeta\ED_2025-II-7234\GrafoCostos\obj\Debug\GrafoCostos.exe.config
