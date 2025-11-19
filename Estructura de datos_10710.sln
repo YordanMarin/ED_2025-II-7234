@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrafoRecorridoAdyacencia", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrafoCostos", "GrafoCostos\GrafoCostos.csproj", "{B197992C-F14C-4550-914F-03B2943F61B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrafoFloyd", "GrafoFloyd\GrafoFloyd.csproj", "{DFBEFAFD-AD95-43D9-8481-21BBB18B0D5B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{B197992C-F14C-4550-914F-03B2943F61B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B197992C-F14C-4550-914F-03B2943F61B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B197992C-F14C-4550-914F-03B2943F61B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFBEFAFD-AD95-43D9-8481-21BBB18B0D5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFBEFAFD-AD95-43D9-8481-21BBB18B0D5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFBEFAFD-AD95-43D9-8481-21BBB18B0D5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFBEFAFD-AD95-43D9-8481-21BBB18B0D5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
